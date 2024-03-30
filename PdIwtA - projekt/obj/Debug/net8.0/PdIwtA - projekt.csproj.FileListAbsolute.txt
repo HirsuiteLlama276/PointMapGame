@@ -28,3 +28,4 @@
 /home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.pdb
 /home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.genruntimeconfig.cache
 /home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/ref/PdIwtA - projekt.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.sourcelink.json
