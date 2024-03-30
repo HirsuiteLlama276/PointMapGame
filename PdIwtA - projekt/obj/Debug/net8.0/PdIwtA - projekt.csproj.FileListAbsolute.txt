@@ -1,0 +1,30 @@
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/appsettings.Development.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/appsettings.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/PdIwtA - projekt.staticwebassets.runtime.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/PdIwtA - projekt
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/PdIwtA - projekt.deps.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/PdIwtA - projekt.runtimeconfig.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/PdIwtA - projekt.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/PdIwtA - projekt.pdb
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.GeneratedMSBuildEditorConfig.editorconfig
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.AssemblyInfoInputs.cache
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.AssemblyInfo.cs
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.csproj.CoreCompileInputs.cache
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.MvcApplicationPartsAssemblyInfo.cache
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.RazorAssemblyInfo.cache
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.RazorAssemblyInfo.cs
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets.build.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets.development.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets/msbuild.PdIwtA - projekt.Microsoft.AspNetCore.StaticWebAssets.props
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets/msbuild.build.PdIwtA - projekt.props
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PdIwtA - projekt.props
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PdIwtA - projekt.props
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/staticwebassets.pack.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/scopedcss/bundle/PdIwtA - projekt.styles.css
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/scopedcss/projectbundle/PdIwtA - projekt.bundle.scp.css
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/refint/PdIwtA - projekt.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.pdb
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.genruntimeconfig.cache
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/ref/PdIwtA - projekt.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PdIwtA - projekt.props" />
+</Project>
