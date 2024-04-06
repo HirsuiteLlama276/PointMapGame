@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wyd8zvYm/Ftg6VnO1Qb2PDPhe1iSHp6Ttmh+loWYDm0=",
+  "Hash": "zqPPArlL2KZ9/sLEbCtu6SBrWixYUaEVPs8/0Rqcf1w=",
   "Source": "PdIwtA - projekt",
   "BasePath": "_content/PdIwtA - projekt",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/wwwroot/js/map.js",
+      "SourceId": "PdIwtA - projekt",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/wwwroot/",
+      "BasePath": "_content/PdIwtA - projekt",
+      "RelativePath": "js/map.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/map.js"
     },
     {
       "Identity": "/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/wwwroot/js/site.js",

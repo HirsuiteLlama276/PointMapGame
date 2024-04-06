@@ -4,36 +4,12 @@
     <style>
         /* Style for map container */
         #map {
-            height: 400px;
+            height: 800px;
             width: 100%;
         }
     </style>
 <div id="map"></div>
-
-<!-- Include Google Maps JavaScript API with your API key -->
+<script src="js/map.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap" async defer></script>
 
-<script>
-            let latitude;
-            let longitude; 
-            if (navigator.geolocation) {
-                navigator.geolocation.getCurrentPosition(getLocalization);
-            } else {
-                alert("Geolocation is not supported by this browser.");
-            }
-            function getLocalization(position) {
-              latitude = position.coords.latitude;
-              longitude = position.coords.longitude;
-            }
-        // Initialize and add the map
-        function initMap() {
-          
-            // Specify coordinates for map center
-            let centerCoordinates = { lat: latitude, lng: longitude };
-            // Create a new map object
-            let map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 12,  // Set zoom level
-                center: centerCoordinates  // Set center coordinates
-            });
-        }
-    </script>
+

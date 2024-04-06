@@ -7,4 +7,8 @@
         <RootNamespace>PdIwtA___projekt</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Include="wwwroot\js\map.js" />
+    </ItemGroup>
+
 </Project>
