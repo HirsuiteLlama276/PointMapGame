@@ -37,6 +37,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "React.Web.Mvc4": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
+            "react.js": {
+              "target": "Package",
+              "version": "[0.14.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

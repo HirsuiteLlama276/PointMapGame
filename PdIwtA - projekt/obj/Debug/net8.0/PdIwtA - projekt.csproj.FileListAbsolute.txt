@@ -29,3 +29,23 @@
 /home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.genruntimeconfig.cache
 /home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/ref/PdIwtA - projekt.dll
 /home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.sourcelink.json
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/AdvancedStringBuilder.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/JavaScriptEngineSwitcher.Core.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/JSPool.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/System.Web.Mvc.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/System.Web.Razor.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/System.Web.Helpers.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/System.Web.WebPages.Deployment.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/System.Web.WebPages.Razor.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/System.Web.WebPages.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/Microsoft.Web.Infrastructure.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/React.Core.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/React.Web.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/React.Web.Mvc4.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/WebActivatorEx.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/bin/Debug/net8.0/ru-RU/JavaScriptEngineSwitcher.Core.resources.dll
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.csproj.AssemblyReference.cache
+/home/kuba/RiderProjects/PdIwtA - projekt/PdIwtA - projekt/obj/Debug/net8.0/PdIwtA - projekt.csproj.CopyComplete

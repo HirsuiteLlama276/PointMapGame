@@ -6,11 +6,21 @@ if (navigator.geolocation) {
 } else {
     alert("Without access game is useless. Please consider it!");
 }
+
+function updateMap() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(getLocalization);
+    } else {
+        alert("Without access game is useless. Please consider it!");
+    }
+}
+
 function getLocalization(position) {
     latitude = position.coords.latitude;
     longitude = position.coords.longitude;
 }
 async function initMap() {
+    updateMap()
     let myLocalization = { lat: latitude, lng: longitude };
      map = new google.maps.Map(document.getElementById('map'), {
         zoom: 18,
@@ -19,4 +29,5 @@ async function initMap() {
         heading:0,
         tilt: 75
     });
+     google.maps.event.trigger(map,'resize');
 }
